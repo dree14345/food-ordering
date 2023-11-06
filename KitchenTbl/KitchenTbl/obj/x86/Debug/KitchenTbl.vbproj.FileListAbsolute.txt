@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\bin\Debug\KitchenTbl.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\bin\Debug\KitchenTbl.pdb
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\bin\Debug\KitchenTbl.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.vbproj.ResolveComReference.cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.Form1.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.Resources.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\KitchenTbl\KitchenTbl\obj\x86\Debug\KitchenTbl.pdb
