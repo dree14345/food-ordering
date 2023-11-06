@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.vbproj.ResolveComReference.cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\bin\Debug\CounterKIOSK.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\bin\Debug\CounterKIOSK.pdb
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\bin\Debug\CounterKIOSK.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.Form1.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.Resources.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\CounterKIOSK\CounterKIOSK\obj\x86\Debug\CounterKIOSK.pdb

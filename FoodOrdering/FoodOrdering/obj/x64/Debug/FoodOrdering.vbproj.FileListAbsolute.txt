@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\bin\x64\Debug\FoodOrdering.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\bin\x64\Debug\FoodOrdering.pdb
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\bin\x64\Debug\FoodOrdering.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\Interop.ADODB.dll
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.vbproj.ResolveComReference.cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.setQuantity.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.Widget.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.Form1.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.Resources.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.POS.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\FoodOrdering\FoodOrdering\obj\x64\Debug\FoodOrdering.pdb
