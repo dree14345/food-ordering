@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Interop.ADODB.dll
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.vbproj.ResolveComReference.cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\bin\x64\Debug\Inventory.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\bin\x64\Debug\Inventory.pdb
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\bin\x64\Debug\Inventory.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.Dashboard.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.Form1.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.Resources.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.ProductList.resources
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.exe
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.xml
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.pdb
+C:\Users\Admin\Documents\ADODB\FoodOrdering\Inventory\Inventory\obj\x64\Debug\Inventory.Analytics.resources
